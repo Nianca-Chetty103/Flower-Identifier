@@ -1,4 +1,4 @@
-# Image-Identifier 🌻
+# Image-Identifier 🖼️
 this project speaks for itself, It is able to process images and identify /predict what the image is.
 
 ## What I learnt 
